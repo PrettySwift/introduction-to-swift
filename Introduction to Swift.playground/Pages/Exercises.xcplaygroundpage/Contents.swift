@@ -22,12 +22,14 @@ integersList
 /*:
 ## Exercise 3
 
-Write a function `greet` that takes as input a person's name as a String and returns a string greeting the person. For example, `name` is `Fred`, the function should return "Hello Fred")
+Write a function `greet` that takes as input a person's name as a String and returns a string greeting the person. For example, when `name` is "Fred", the function should return "Hello Fred".
 */
 
 func greet() {
     
 }
+
+greet()
 
 /*:
 ## Exercise 4
